@@ -1,7 +1,10 @@
 .App {
   text-align: center;
+}
+
+body{
   background-color: rgb(19, 19, 52);
-  color: #b97373;
+  color: #fff;
 }
 
 .App-logo {
@@ -23,7 +26,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: grey;
 }
 
 .App-link {
